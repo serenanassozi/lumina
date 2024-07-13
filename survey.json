@@ -1,0 +1,112 @@
+[
+    {
+        "cat": "Hidden Intelligence",
+        "qn": "Does your child seem very intelligent but has difficulty with reading, writing, spelling, or math?",
+        "ans": ["yes", "no"]
+    },
+    {
+        "cat": "Reading Problems - Visual",
+        "qn": "Does your child experience any of these reading problems? Check all that apply.",
+        "ans": ["Sometimes substitutes words when reading", "Sometimes omits words when reading", "Sometimes reverses words when reading?", "Sometimes combines parts of words when reading? (the cat becomes that)", "Sometimes changes the order of words when reading?", "Confuses visually similar words such as mop and map?", "Letters jump between words (\"kind wing\" becomes \"wind king\")", "None of the above"]
+    },
+    {
+        "cat": "Reading - Visual Tracking",
+        "qn": "Does your child have any of these problems while reading? Check all that apply ",
+        "ans": ["Loses place or skips lines when reading","Uses finger to track lines when reading","Complains of letters or words moving or jumping","None of the above"]
+    },
+    {
+        "cat": "Reading - Processing",
+        "qn": "Does your child have any of these reading comprehension problems?",
+        "ans": ["Fatigues very quickly when reading","Has little or no comprehension of what was just read","Re-reads sentences to try to get meaning","None of the above"]
+    },
+    {
+        "cat": "Spelling",
+        "qn": "Does your child have any of these spelling problems?",
+        "ans": ["Has overall poor spelling", "Misspells even simple words", "Spells the same word differently even when used repeatedly", "Spells phonetically(sounds it out)", "None of the above"]
+    }, 
+    {
+        "cat": "Writing - Legibility",
+        "qn": "Does your child have any of these writing legibility problems? Check all that apply.",
+        "ans": ["Has illegible handwriting","Writing drifts","Writing is of inconsistent size","Switches back and forth between print and cursive","Spaces words and letters in odd ways","Has difficulty with pencil grip, unusual pencil grip, or tight pencil grip","None of the above"]
+    }, 
+    {
+        "cat": "Writing - Visual",
+        "qn": "Does your child have any of these writing problems",
+        "ans": ["Reverses letters?", "Mixes up order of letters when writing words","Reverses words?","None of the above"]
+    },
+    {
+        "cat": "Writing - Processing",
+        "qn": "Does your child have any of these processing difficulties while writing?",
+        "ans":["Difficulty in organizing thoughts when writing","Tests well orally but not written","Has difficulty showing math steps on paper","Uses incorrect punctuation","Uses lots of run-on sentences","Writing is very slow and labored","Does not break up paragraphs","Has poor grammar"]
+    },
+    {
+        "cat": "Language Processing - Abstractions",
+        "qn": "Does your child have any of these language processing problems?",
+        "ans" : ["Does the child have trouble with associating the right names with objects? (you ask for a fork but are given a spoon)","Often doesn’t understand jokes? Especially puns or jokes based on different meanings of words.","Has trouble understanding proverbs and memes? (short pithy sayings)","Has trouble understanding idioms? (like “It’s raining cats and dogs”)","None of the above"]
+    },
+    {
+        "cat" : "Language Processing - Speech",
+        "qn": "Does your child have any of these language processing problems?",
+        "ans": ["Does the child frequently mispronounce words? Often mixing up syllables (pasgetti instead of spaghetti)","Stammers, has difficulty expressing ideas or getting to the point?","Get’s frustrated trying to convey a thought or story?","None of the above"]
+    },
+    {
+        "cat": "Language Processing - Vocabulary",
+        "qn": "Does your child have any of these language processing problems? Check any that apply.",
+        "ans": ["Seems to have a smaller vocabulary than peers?","Has trouble finding the right word","Uses a lot of filler words such as “um”","Uses the same phrase repetitively","Has trouble learning new vocabulary words","Confuses verb tense","Doesn’t talk much but understands what other people say","Is limited in the number of sentence structures used","Has trouble reciting the alphabet","Has difficulty learning a foreign language?","None of the above"]
+    },
+    {
+        "cat": "Auditory Processing - Rhyming",
+        "qn": "Does your child have any of these auditory processing problems?",
+        "ans" : ["Has difficulty with rhyming","Has poor musical ability","Has difficulty learning songs","Has difficulty learning nursery rhymes","None of the above"]
+    },
+    {
+        "cat": "Auditory Processing - Auditory Discrimination, Auditory Closure",
+        "qn": "Does your child have any of these auditory processing problems?",
+        "ans" : ["Hearing is fine but says “Huh”or “what” a lot","Easily distracted in environments with background noise","Struggles with oral math problems","Has a difficult time following conversations","None of the above"]
+    },
+    {
+        "cat": "Auditory Processing - Other",
+        "qn": "Does your child have any of these auditory processing problems?",
+        "ans" : ["Has trouble sounding out unfamiliar words","Avoids reading out loud","Reads slowly with poor comprehension","Not interested in books about subjects they are interested in","Has difficulty remembering details from stories they have previously read","Sometimes replaces words with similar sounding words with the wrong meaning","None of the above"]
+    }, 
+    {
+        "cat" : "Memory - Experienced",
+        "qn": "Does your child have exceptional skills in these areas?",
+        "ans": ["Has excellent memory for things experienced","Has excellent memory for faces","Has excellent memory for locations","None of the above"]
+    },
+    {
+        "cat" : "Memory - Constructed",
+        "qn" : "Does your child have these memory problems?",
+        "ans" : ["Poor memory for things not experienced","Always Looks up and to the right or up and to the left when trying to remember something","None of the above"]
+    },
+    {
+        "cat" : "Following Directions",
+        "qn" : "Does your child have any trouble with:",
+        "ans" : ["Has difficulty following multi-step directions? (You ask them to go to the fridge and get butter and milk and they return with only milk.)","Has difficulty in following rules?","None of the above"]
+    }, 
+    {
+        "cat" : "Spatial Awareness, proprioception, directionality",
+        "qn" : "Does your child have any of these spatial awareness or directionality problems?",
+        "ans" : ["Confuses left and right","Confuses over under","Seems to have trouble learning to tie their shoes","Has Trouble reading charts or graphs","Has trouble reading a map","Is prone to motion sickness","None of the above"]
+    }, 
+    {
+        "cat": "Motor",
+        "qn" : "Does your child have any of these motor problems?",
+        "ans": ["Is clumsy or uncoordinated","Difficulty skipping","Difficulty with balance","Difficulty with rhythm","None of the above"]
+    }, 
+    {
+        "cat" : "Dominance",
+        "qn" : "Is your child mixed dominant or ambidextrous. (Skip if you do not know) Cross dominant (mixed dominant) means they are right handed but the left eye is dominant. Or vice versa. An easy test to see which is the dominant eye is to handed them a camera or telescope and watch what eye they use.",
+        "ans": ["Does not have a dominant hand? Switches back and forth or dominance depends on activity.","Is mixed dominant?","Is ambidextrous", "None of the above"]
+    }, 
+    {
+        "cat" : "Light Sensitivity",
+        "qn": "Is your child light sensitive? Especially under flourescent lights",
+        "ans": ["Yes", "No"]
+    }, 
+    {
+        "cat": "Physical Symptoms",
+        "qn" : "Does your child have any of these physical symptoms?",
+        "ans" : ["Has frequent headaches during or after studying, reading, math?", "Complains of dizziness while studying","None"]
+    }
+]
